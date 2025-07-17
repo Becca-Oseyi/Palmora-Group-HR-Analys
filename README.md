@@ -21,3 +21,9 @@ MS Excel for data preprocessing
 DAX for calculations
 
 ## Files Submitted:
+Palmoria Group Bonus Rules.xlsx
+
+Palmoria Group emp-data.csv
+
+
+
